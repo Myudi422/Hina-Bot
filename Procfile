@@ -1,1 +1,1 @@
-worker: python3 hina.py
+worker: python3 Hina.py
